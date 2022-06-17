@@ -1,0 +1,10 @@
+<addressbook>
+    <contact>
+<name>Kenny</name>
+<phone type="office">65501696</phone> <email>kenny_lu@nyp.edu.sg</email>
+    </contact>
+    <contact>
+<name>Charles</name>
+<phone type="mobile">95501551</phone> <email>charles_lee@nyp.edu.sg</email>
+    </contact>
+</addressbook>

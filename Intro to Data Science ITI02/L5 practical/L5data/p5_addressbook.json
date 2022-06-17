@@ -1,0 +1,11 @@
+[  { "name" : "kenny",
+     "phone_type" : "office",
+     "phone_num" : "65501696",
+     "email" : "kenny_lu@nyp.edu.sg"
+   }, 
+   { "name" : "charles",
+     "phone_type" : "mobile",
+     "phone_num" : "95501551",
+     "email" : "charles_lee@nyp.edu.sg"
+   }
+]
